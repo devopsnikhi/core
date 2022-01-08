@@ -1,1 +1,1 @@
-FROMvdhgsgh
+FROM ubuntu
